@@ -1,0 +1,10 @@
+certifi==2025.11.12
+charset-normalizer==3.4.4
+idna==3.11
+numpy==2.4.0
+packaging==25.0
+pip-autoremove==0.10.0
+pipdeptree==2.30.0
+requests==2.32.5
+setuptools==80.9.0
+urllib3==2.6.2
